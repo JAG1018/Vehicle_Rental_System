@@ -5,4 +5,4 @@ A Java Mini Project
 By,
   Jagannath V V
   Shamal Musthfa
-  sobin Varghese
+  Sobin Varghese
